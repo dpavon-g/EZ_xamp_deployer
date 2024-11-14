@@ -46,4 +46,6 @@ Docker uses its own routes for services, so if you want to connect to the databa
 
 ## Things you need to know
 
-By default, port 8080 is needed to connect to Apache2, and port 8081 to connect to phpMyAdmin. On your computer, these ports might be closed. If this happens, open the ```docker-compose.yml``` file and change the ports for any service that is not working.
+By default, port ```8080``` is needed to connect to ```Apache2```, and port ```8081``` to connect to ```phpMyAdmin```. On your computer, these ports might be closed. If this happens, open the ```docker-compose.yml``` file and change the ports for any service that is not working.
+
+If something doesn’t work, feel free to message me on my [LinkedIn profile](www.linkedin.com/in/pavondaniel), and I’ll be happy to help you! 😊
